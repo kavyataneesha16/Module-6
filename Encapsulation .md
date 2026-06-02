@@ -46,5 +46,3 @@ r1.display()
 
 ## Result
 Thus, the program to demonstrate Encapsulation using private variables in Python is successfully executed.
-
-
