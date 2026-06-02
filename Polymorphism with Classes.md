@@ -64,5 +64,3 @@ func(m)
 
 ## Result
 Thus, the program successfully demonstrates polymorphism, where a single function works with different object types based on their methods.
-
-
